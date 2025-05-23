@@ -4,7 +4,8 @@
 - [Career Counselling](#career-counselling)
 - [Skills and Interests](#skills-and-interests)
 - [Personality Assessment](#personality-assessment)
-- [Curriculum Vitae (CV)](#curriculum-vitae)
+- [Creating a CV](#curriculum-vitae-cv)
+- [CV Submission](#cv-submission)
 
 ---
 
@@ -12,16 +13,10 @@
 
 ### Evidence
 - ![Career Counselling Quiz Result](career_counselling_result.png)
-- Quiz Questions:
-  - What is the purpose of setting goals in career counselling?
-  - What should be the outcome of effective career counselling?
-  - What's the primary goal of career development?
-  - Concept of career planning
-  - Example of a hard skill
 
 ### Reflection (STAR Technique)
 **Situation:**  
-As part of the training, I completed a module on career counselling that included a short quiz.
+As part of the training, I completed the learning material on career counselling, which included a short quiz.
 
 **Task:**  
 To understand how to set career goals, define career planning, and differentiate between types of skills.
@@ -30,7 +25,7 @@ To understand how to set career goals, define career planning, and differentiate
 I answered questions related to goal setting, effective counselling outcomes, and the concept of career development and planning.
 
 **Result:**  
-I gained a clear understanding of how career counselling supports long-term planning, goal setting, and skill awareness. I can now identify hard skills like computer literacy, and understand how structured planning influences career growth.
+I gained a clear understanding of how career counselling supports long-term planning, goal setting, and skill awareness.
 
 ---
 
@@ -38,12 +33,6 @@ I gained a clear understanding of how career counselling supports long-term plan
 
 ### Evidence
 - ![Skills and Interests Quiz Result](skills_interests_result.png)
-- Quiz Questions:
-  - What are values?
-  - Skills are:
-  - Example of a transferable skill
-  - Interests can be described as:
-  - How can values influence your career choices?
 
 ### Reflection (STAR Technique)
 **Situation:**  
@@ -53,10 +42,10 @@ This module focused on understanding my personal skills, values, and interests.
 To identify what I’m good at, what matters to me, and how those align with career paths.
 
 **Action:**  
-I completed a quiz exploring the definition of values, types of skills (like transferable ones), and how interests guide career satisfaction.
+I completed a quiz exploring the definition of values, types of skills, and how interests guide career satisfaction.
 
 **Result:**  
-I learned that transferable skills like teamwork are highly useful across roles, and that aligning my values with job roles will lead to more fulfilling work experiences.
+I learned that transferable skills like teamwork are highly useful across roles, and that aligning my values with job roles can lead to more fulfilling work experiences.
 
 ---
 
@@ -64,22 +53,19 @@ I learned that transferable skills like teamwork are highly useful across roles,
 
 ### Evidence
 - ![Personality Assessment Result](personality_assessment_result.png)
-- Quiz Questions:
-  - What is the primary goal of personality and career matching?
-  - Personality type is often associated with careers in:
-
+  
 ### Reflection (STAR Technique)
 **Situation:**  
-The session introduced personality types and how they relate to career fit.
+This module introduced personality types and how they relate to career fit.
 
 **Task:**  
-To learn about the connection between personality traits and job roles.
+To learn about the connection between personality traits and suitable job roles.
 
 **Action:**  
-I took a short quiz on how preferences (like working with data or people) relate to personality styles and career paths.
+I took a short quiz that assessed how preferences relate to personality styles and ideal careers.
 
 **Result:**  
-I found that my personality aligns more with roles involving creativity and communication, which helps me focus on career options that suit my strengths and preferences.
+I found that my personality aligns with roles involving creativity and communication, helping me focus on career paths that suit my strengths and interests.
 
 ---
 
@@ -87,28 +73,26 @@ I found that my personality aligns more with roles involving creativity and comm
 
 ### Evidence
 - ![CV Quiz Result](cv_quiz_result.png)
-- [Download My CV (PDF)](my_cv.pdf)
-- Quiz Questions (from “Creating a CV” module):
-  - What is the primary purpose of a CV?
-  - What is the purpose of the work experience section?
-  - Appropriate order for listing items in the work experience section
-  - What should you include in the skills section?
-  - What should be the focus of the education section in a CV?
 
 ### Reflection 1: Creating a CV (STAR Technique)
 **Situation:**  
-I completed the “Creating a CV” module to learn how to present myself professionally.
+I completed the “Creating a CV” module to learn how to correctly and professionally create a CV.
 
 **Task:**  
 To understand each section of a CV and how to structure it effectively.
 
 **Action:**  
-I went through the slides and answered questions on purpose, section order, and what information to include.
+I reviewed slides and answered quiz questions on section order and key content areas like work experience and skills.
 
 **Result:**  
-I now know how to organize a CV clearly and highlight work experience, education, and skills that match job requirements.
+I now know how to organise a CV clearly and highlight work experience, education, and skills that match job requirements.
 
 ---
+
+## CV Submission
+
+### Evidence
+- [Download My CV (PDF)](my_cv.pdf)
 
 ### Reflection 2: CV Submission (STAR Technique)
 **Situation:**  
@@ -118,8 +102,7 @@ After learning the fundamentals, I created my own CV.
 To design a CV that accurately reflects my qualifications and experience.
 
 **Action:**  
-I used the guidelines from the training to create a clear, well-structured document in PDF format.
+I used the guidelines from the training to create a well-structured document in PDF format.
 
 **Result:**  
-I produced a professional CV that I can use for job or internship applications and update as I gain more experience.
-
+I produced a professional CV that I can confidently use for job or internship applications, and I now understand how to update it as I gain experience.
