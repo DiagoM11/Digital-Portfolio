@@ -12,7 +12,7 @@
 ## Career Counselling
 
 ### Evidence
-- ![Career Counselling Quiz Result](career_counselling_result.png)
+![Career Counselling Quiz Result](career.png)
 
 ### Reflection (STAR Technique)
 **Situation:**  
@@ -32,7 +32,7 @@ I gained a clear understanding of how career counselling supports long-term plan
 ## Skills and Interests
 
 ### Evidence
-- ![Skills and Interests Quiz Result](skills_interests_result.png)
+![Skills and Interests Quiz Result](skills.png)
 
 ### Reflection (STAR Technique)
 **Situation:**  
@@ -52,7 +52,7 @@ I learned that transferable skills like teamwork are highly useful across roles,
 ## Personality Assessment
 
 ### Evidence
-- ![Personality Assessment Result](personality_assessment_result.png)
+![Personality Assessment Result](personality.png)
   
 ### Reflection (STAR Technique)
 **Situation:**  
@@ -72,7 +72,7 @@ I found that my personality aligns with roles involving creativity and communica
 ## Curriculum Vitae (CV)
 
 ### Evidence
-- ![CV Quiz Result](cv_quiz_result.png)
+![CV Quiz Result](create_cv.png)
 
 ### Reflection 1: Creating a CV (STAR Technique)
 **Situation:**  
@@ -92,7 +92,8 @@ I now know how to organise a CV clearly and highlight work experience, education
 ## CV Submission
 
 ### Evidence
-- [Download My CV (PDF)](my_cv.pdf)
+![CV Quiz Result](create_submission.png)
+[Download My CV (PDF)](Diago_Mazinyo_CV.pdf)
 
 ### Reflection 2: CV Submission (STAR Technique)
 **Situation:**  
