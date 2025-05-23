@@ -72,7 +72,7 @@ I found that my personality aligns with roles involving creativity and communica
 ## Curriculum Vitae (CV)
 
 ### Evidence
-![CV Quiz Result](create_cv.png)
+![CV Quiz Result](create.png)
 
 ### Reflection 1: Creating a CV (STAR Technique)
 **Situation:**  
@@ -92,8 +92,8 @@ I now know how to organise a CV clearly and highlight work experience, education
 ## CV Submission
 
 ### Evidence
-![CV Quiz Result](create_submission.png)
-[Download My CV (PDF)](Diago_Mazinyo_CV.pdf)
+![CV Quiz Result](submission.png)
+[Download My CV (PDF)](DiagoMazinyoCV.pdf)
 
 ### Reflection 2: CV Submission (STAR Technique)
 **Situation:**  
