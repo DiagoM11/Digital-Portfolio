@@ -113,7 +113,7 @@
   <h3>Evidence</h3>
   <img src="mockinterview.png" alt="CV Quiz Result">
   <p><a href="MockInterview.mp4" target="_blank">Watch Mock Interview Video</a></p>
-  <h3>Reflection (STAR Technique)</h3>
+  <h3>Reflection</h3>
   <p><strong>Situation:</strong> To apply what I learned, I participated in a mock interview exercise that simulated a real job interview environment.</p>
   <p><strong>Task:</strong> To practice communication, confidence, and professionalism while responding to typical interview questions.</p>
   <p><strong>Action:</strong> I prepared by reviewing interview best practices, rehearsing my responses, and applying techniques like maintaining good posture, steady eye contact, and clear articulation.</p>
